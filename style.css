@@ -1,0 +1,138 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+.dias{
+  font-size: 18pt;
+}
+.horas{
+  font-size: 12pt;
+}
+.minutos{
+  font-size: 12pt;
+}
+.segundos{
+  font-size: 12pt;
+}
+div #boton{
+  float: left;
+}
+
+.glyphicon {  margin-bottom: 10px;margin-right: 10px;}
+#perfil {
+float:right;}
+small {
+display: block;
+line-height: 1.428571429;
+color: #999;
+}
+#contenido{
+  margin-top: 20px;
+}
+ul.fechas{
+  background-color: white;
+  text-align: center;
+}
+ul.fechas>li{
+  margin-left: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+ul.fechas>li>input{
+  text-align: center;
+}
+li a:hover {
+  background-color: #111111;
+}
+#exito{
+  background-color: #58d68d;
+}
+#rechazo{
+  background-color: #fc0101;
+}
+#delete{
+  background-color: red;
+}
+#pie{
+  width: 99%;
+}
+#pie p{
+  text-align: right;
+}
+td.table-info{
+  text-decoration-color: black;
+}
+a.icono:hover{
+  text-decoration: none;
+}
+#subasta1{
+  margin: 15px;
+  border-radius: 25px;
+  border: 2px solid black;
+  padding-top: 15px;
+  height: 400px;
+  background-color: #E0ECF8;
+  width: 300px;
+  float:left;
+}
+#subasta{
+  margin-top: 5px;
+  border-radius: 25px;
+  border: 2px solid black;
+  padding-top: 15px;
+  padding-left: 15px;
+  height: 280px;
+  background-color: #E0ECF8;
+}
+
+#hotsale{
+  margin-top: 5px;
+  border-radius: 25px;
+  border: 2px solid  #f1c40f ;
+  padding-top: 15px;
+  padding-left: 15px;
+  height: 280px;
+  background-color: #E0ECF8;
+
+}
+#subastaImagen{
+  width: 18%;
+}
+#subastaInfo{
+  width: 580px;
+  margin-left: 420px;
+  margin-top: -260px;
+}
+#info{
+  text-align: center;
+  width:12%;
+  margin-left: 75%;
+  margin-top: -200px;
+}
+#adquirir{
+  text-align: center;
+  width:12%;
+  margin-left: 87.5%;
+  margin-top: -165px;
+}
+#adquirirInscripcion{
+  text-align: center;
+  width:12%;
+  margin-left: 87.5%;
+  margin-top: -165px;
+}
